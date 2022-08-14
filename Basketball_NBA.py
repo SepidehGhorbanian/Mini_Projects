@@ -148,18 +148,18 @@ def myplot(data , playerlist = Players):
         plt.xticks(list(range(0,10)) , Seasons , rotation = 'vertical')
         
         
-# For each part we can uncomment the second line to plot the description in the first line        
-# Plot : Free throws per game:
-# myplot(freethrows)
+ # Plotting 
+Plot : Free throws per game:
+myplot(freethrows)
 
-## Plot : Free throws attempt per game:
-##myplot(freethrowsattempt)
+Plot : Free throws attempt per game:
+myplot(freethrowsattempt)
 
-### Plot : Free throws accuracy
-##myplot(freethrows/freethrowsattempt)
+Plot : Free throws accuracy
+myplot(freethrows/freethrowsattempt)
 
-#### Plot : Player style patterns excluding free throws 
-####myplot((Points - freethrows) / FieldGoals)
+Plot : Player style patterns excluding free throws 
+myplot((Points - freethrows) / FieldGoals)
 
 
 
