@@ -2,6 +2,9 @@
 
 @author: UNISEPP
 """
+# Produce a plot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
+##It should be categorized by Countries Regions. Some of the data is in python lists and some in a csv file.
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
