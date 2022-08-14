@@ -3,6 +3,10 @@
 
 @author: UNISEPP
 """
+# Plotting a data set regarding movies (boxplot and scatter plot)
+#We need the domestic gross range in 5 genres : action , comedy , adventure , animation , drama
+#from these studios: Buena Vista Studios , Sony , Universal , WB , Fox , Paramount Pictures
+#We have a csv file as a dataset
 
 import pandas as pd
 import matplotlib.pyplot as plt
