@@ -27,7 +27,9 @@ In these projects several methods have been implemented on diefferent data in or
 
 ## Getting Started
 
-1. Clone this repo
-2. Multiple data preprocessing and transformation scripts are stored in the repo
+1. Download and install python on your computer
+2. Make sure to install libraries that have been mentioned before in the 'Technologies' section of the text, if you don't already have them
+3. You can either directly download this repo or clone it (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)). Multiple data preprocessing and transformation scripts are stored in the repo
+4. Run each code in python and see the results
 
 
