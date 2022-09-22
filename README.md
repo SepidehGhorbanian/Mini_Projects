@@ -27,7 +27,7 @@ In these projects several methods have been implemented on diefferent data in or
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/))
+1. Clone this repo
 2. Multiple data preprocessing and transformation scripts are stored in the repo
 
 
